@@ -1,9 +1,7 @@
 ### 👋 Hello World!
 
-🎓 Gratuated in Computer Science from the University of Bologna (Italy)
-
-
-📫 How to reach me:
+🎓 Gratuated in Computer Science from the University of Bologna (Italy)<br>
+📫 How to reach me:<br>
 <a href="https://in.linkedin.com/in/vvbota">
   <img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
