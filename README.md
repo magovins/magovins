@@ -13,7 +13,7 @@
 </div>
 <br><br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  <h3>Languages and Tools</h3>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><h3>Languages and Tools</h3>
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" style="vertical-align:top; margin:4px">
