@@ -3,7 +3,7 @@
 
 🎓 Gratuated in Computer Science from the University of Bologna (Italy)<br>
 📫 How to reach me:<br>
-<div style="margin:5px">
+<div style="margin-left:4px">
 <a href="https://in.linkedin.com/in/vvbota">
   <img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
