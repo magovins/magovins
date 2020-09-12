@@ -1,4 +1,5 @@
 ### 👋 Hello World!
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 🎓 Gratuated in Computer Science from the University of Bologna (Italy)<br>
 📫 How to reach me:<br>
@@ -11,8 +12,6 @@
 </a>
 </div>
 <br><br>
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  <h3>Languages and Tools</h3>
 
