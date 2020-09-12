@@ -3,14 +3,14 @@
 
 🎓 Gratuated in Computer Science from the University of Bologna (Italy)<br>
 📫 How to reach me:<br>
-<div style="margin-left:4px">
+<p align="center">
 <a href="https://in.linkedin.com/in/vvbota">
   <img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="mailto:magovins@gmail.com">
   <img align="left" alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
-</div>
+</p>
 <br><br>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><h3>Languages and Tools</h3>
