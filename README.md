@@ -20,4 +20,5 @@
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" style="vertical-align:top; margin:4px">
 </p>
