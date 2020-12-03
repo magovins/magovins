@@ -13,13 +13,34 @@
 </p>
 <br><br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><h3>Languages and Tools</h3>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><h3>Tech stack</h3>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" style="vertical-align:top; margin:4px">
- <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+ <img height="32px" src="https://cdn.svgporn.com/logos/html-5.svg" title="HTML 5">
+ <img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg" title="JAVASCRIPT">
+ <img height="32px" src="https://cdn.svgporn.com/logos/jquery.svg" title="JQUERY">
+ <img height="32px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" title="TYPESCRIPT">
+ <img height="32px" src="https://cdn.svgporn.com/logos/angular-icon.svg" title="ANGULAR">
+ <img height="32px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" title="TAILWIND CSS">
+ <img height="32px" src="https://cdn.svgporn.com/logos/bootstrap.svg" title="BOOTSTRAP">
+  
+ <img height="32px" src="https://cdn.svgporn.com/logos/rest.svg" title="API REST">
+ 
+ <img height="32px" src="https://cdn.svgporn.com/logos/php.svg" title="PHP">
+ <img height="32px" src="https://cdn.svgporn.com/logos/laravel.svg" title="LARAVEL">
+ 
+ <img height="32px" src="https://cdn.svgporn.com/logos/nodejs.svg" title="NODE JS">
+ <img height="32px" src="https://cdn.svgporn.com/logos/npm.svg" title="NPM">
+ <img height="32px" src="https://cdn.svgporn.com/logos/express.svg" title="EXPRESS">
+ 
+ <img height="32px" src="https://cdn.svgporn.com/logos/java.svg" title="JAVA">
+ <img height="32px" src="https://cdn.svgporn.com/logos/spring.svg" title="SPRING Framework">
+ 
+ <img height="32px" src="https://cdn.svgporn.com/logos/mongodb.svg" title="MONGO DB">
+ <img height="32px" src="https://cdn.svgporn.com/logos/mysql.svg" title="MYSQL">
+ 
+ <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" title="VS CODE">
+ <img height="32px" src="https://cdn.svgporn.com/logos/eclipse.svg" title="ECLIPSE">
+ <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg" title="GIT">
+
 </p>
