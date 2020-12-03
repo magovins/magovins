@@ -31,7 +31,7 @@
  
  <img height="32px" src="https://cdn.svgporn.com/logos/nodejs.svg" title="NODE JS">
  <img height="32px" src="https://cdn.svgporn.com/logos/npm.svg" title="NPM">
- <img height="32px" src="https://cdn.svgporn.com/logos/express.svg" title="EXPRESS">
+ <img height="24px" src="https://cdn.svgporn.com/logos/express.svg" title="EXPRESS">
  
  <img height="32px" src="https://cdn.svgporn.com/logos/java.svg" title="JAVA">
  <img height="32px" src="https://cdn.svgporn.com/logos/spring.svg" title="SPRING Framework">
